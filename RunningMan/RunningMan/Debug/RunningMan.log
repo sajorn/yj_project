@@ -1,0 +1,7 @@
+﻿  MainProgram.cpp
+d:\yj_project\runningman\runningman\mainprogram.cpp(101): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\yj_project\runningman\runningman\mainprogram.cpp(122): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  RunningMan.cpp
+  TimerManager.cpp
+  正在生成代码...
+  RunningMan.vcxproj -> D:\YJ_Project\RunningMan\Debug\RunningMan.exe
